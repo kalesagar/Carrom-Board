@@ -1,4 +1,4 @@
-package CarromBoardGame
+package main
 
 //Player ...
 type Player struct {
