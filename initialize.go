@@ -1,4 +1,4 @@
-package CarromBoardGame
+package main
 
 import "fmt"
 
